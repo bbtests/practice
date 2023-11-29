@@ -1,0 +1,29 @@
+header {
+  background-color: green;
+  color: white;
+  height: 15vh;
+  font-size: 24px;
+  font-weight: 700;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  margin-right: 24px;
+}
+
+main .body {
+  background-color: purple;
+  color: yellow;
+  height: 35vh;
+  font-size: 36px;
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  width: 100%;
+  height: 45vh;
+}
